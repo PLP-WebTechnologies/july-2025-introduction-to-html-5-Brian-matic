@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Metadata for SEO -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn about the importance of sustainable agriculture for a greener future. Discover eco-friendly farming practices and their global impact.">
+    <meta name="keywords" content="sustainable agriculture, eco-friendly farming, green farming, environmental conservation">
+    <meta name="author" content="Your Name">
+
+    <title>Sustainable Agriculture: Growing a Greener Future</title>
+</head>
+<body>
+    <!-- Accessible page header -->
+    <header role="banner">
+        <h1>Sustainable Agriculture: Growing a Greener Future</h1>
+        <nav aria-label="Main Navigation">
+            <ul>
+                <li><a href="#about" title="Learn about sustainable agriculture">About</a></li>
+                <li><a href="#practices" title="Explore eco-friendly farming practices">Practices</a></li>
+                <li><a href="#impact" title="Understand the global impact">Impact</a></li>
+                <li><a href="#contact" title="Get in touch with us">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main content area -->
+    <main id="main-content" role="main">
+        <!-- About section -->
+        <section id="about" aria-labelledby="about-heading">
+            <h2 id="about-heading">About Sustainable Agriculture</h2>
+            <p>
+                Sustainable agriculture is a farming approach that focuses on meeting society’s present food needs without compromising the ability of future generations to meet their own. It prioritizes environmental health, economic profitability, and social equity.
+            </p>
+        </section>
+
+        <!-- Practices section -->
+        <section id="practices" aria-labelledby="practices-heading">
+            <h2 id="practices-heading">Eco-Friendly Farming Practices</h2>
+            <article>
+                <h3>Crop Rotation</h3>
+                <p>
+                    Crop rotation involves growing different types of crops in the same area across seasons to improve soil health and reduce pests naturally.
+                </p>
+            </article>
+            <article>
+                <h3>Organic Fertilization</h3>
+                <p>
+                    Using compost and natural fertilizers reduces chemical runoff and maintains biodiversity.
+                </p>
+            </article>
+        </section>
+
+        <!-- Global impact section -->
+        <section id="impact" aria-labelledby="impact-heading">
+            <h2 id="impact-heading">Global Impact of Sustainable Farming</h2>
+            <p>
+                Implementing sustainable farming worldwide could reduce greenhouse gas emissions, preserve biodiversity, and ensure food security for billions.
+            </p>
+        </section>
+    </main>
+
+    <!-- Contact section -->
+    <footer role="contentinfo">
+        <section id="contact" aria-labelledby="contact-heading">
+            <h2 id="contact-heading">Contact Us</h2>
+            <address>
+                <p>Email: <a href="mailto:info@sustainablefuture.org">info@sustainablefuture.org</a></p>
+                <p>Phone: +123-456-7890</p>
+            </address>
+        </section>
+        <p>&copy; 2025 Sustainable Future Initiative</p>
+    </footer>
+</body>
+</html>
